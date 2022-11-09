@@ -1,28 +1,5 @@
 {
     "users_infor":[
-        {
-            "name":"Kerry Wangamati",
-            "age":23,
-            "course":"Software"
 
-        },
-        {
-            "name":"Wekesa Paul",
-            "age":24,
-            "course":"Networks"
-
-        },
-        {
-            "name":"Ann Angel",
-            "age":20,
-            "course":"Software"
-
-        },
-        {
-            "name":"Brian Njoroge",
-            "age":22,
-            "course":"Networking"
-
-        }
     ]
 }
